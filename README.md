@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is a responsive website which contains a form for making a dinner reservation in a restaurant. Key features of the project include:
+This project is a responsive website which contains a form for making a dinner reservation in a restaurant.
 
 ## Key Features
 
@@ -31,8 +31,6 @@ Before submission, users can review their booking details, including a breakdown
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- TOOLS -->
-### Built With
-
 ### Built With
 
 * [![HTML][HTML.com]][HTML-url]
